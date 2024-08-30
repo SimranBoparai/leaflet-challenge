@@ -7,21 +7,19 @@ This challenge visualizes recent earthquake data from the USGS (United States Ge
 
 # Table of Contents
 
-1. [Prerequisties](#prerequisites)
-- [Installation](#installation)
-- [Repository Setup](#repository-setup)
-- [Git Bash Command Example](#git-bash-command-example)
-
-2. [Repository Structure](#repository-structure)
-
-3. [Challenge Instructions](#challenge-instructions)
-- [Part 1: Create the Earthquake Visualization](#part-1-create-the-earthquake-visualization)
-
-4. [Tile and Topographic Layer Example Code](#tile-and-topographic-layer-example-code)
-
-5. [Acknowledgements](#acknowledgements)
-
-6. [Author](#author)
+- [Leaflet Challenge](#leaflet-challenge)
+  - [Overview](#overview)
+- [Table of Contents](#table-of-contents)
+- [Documentation](#documentation)
+- [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Repository Setup:](#repository-setup)
+  - [Git Bash Command Example](#git-bash-command-example)
+- [Repository Structure](#repository-structure)
+- [Challenge Instructions](#challenge-instructions)
+- [Tile and Topographic Layer Example Code](#tile-and-topographic-layer-example-code)
+- [Acknowledgements](#acknowledgements)
+- [Author](#author)
 
 
 # Documentation
@@ -92,8 +90,8 @@ Complete the following setps:
 4. Create markers that reflect the magnitude of the earthquakes by their size and debth of the earthquakes by color.
    
 5. Create popups that provide additional information about the earthquakes.
-6. 
-7. Create a legend that will provide context for the map data. 
+   
+6. Create a legend that will provide context for the map data. 
 
 
 # Tile and Topographic Layer Example Code
